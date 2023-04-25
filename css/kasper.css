@@ -865,7 +865,7 @@ header nav .form i {
 .pricing .container .plans .box ul li:last-child {
   border: none;
 }
-.pricing .container .plans .box .footer a {
+.pricing .container .plans .box .foot a {
   text-decoration: none;
   border: 1px solid var(--main-color);
   padding: 10px 20px;
